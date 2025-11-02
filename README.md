@@ -44,9 +44,9 @@ All records are stored permanently in a `.dat` or `.txt` file, making it a great
 AddressBook/
 │
 ├── addressbook.c         # Main source file
-├── contacts.dat          # File for storing contact records
+├── AddressBook.csv       # File for storing contact records
 ├── README.md             # Project documentation
-└── assets/               # Screenshots or output images
+
 ```
 
 ---
