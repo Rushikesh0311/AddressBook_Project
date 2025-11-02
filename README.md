@@ -17,7 +17,7 @@
 
 ## 🧩 Overview
 A **simple Address Book application in C** that allows users to **store, search, edit, and delete contacts** using file handling.  
-All records are stored permanently in a `.dat` or `.txt` file, making it a great example of persistent storage without using databases.
+All records are stored permanently in a `.csv` or `.txt` file, making it a great example of persistent storage without using databases.
 
 ---
 
