@@ -51,7 +51,7 @@ AddressBook/
 
 ---
 
-## 🗂️ Data Format (contacts.dat)
+## 🗂️ Data Format (AddressBook.csv)
 Each record is stored in the file in this structure:
 
 | Field | Type | Description |
