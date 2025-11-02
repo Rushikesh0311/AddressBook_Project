@@ -119,7 +119,7 @@ Example Output:
 
 ## 👨‍💻 Author
 **Rushikesh Gore**  
-📧 rushikeshgore0311@gmail.com  
+📧 rushikeshgore0309@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rushikeshgore11) | [GitHub](https://github.com/Rushikesh0311)
 
 ---
